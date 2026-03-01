@@ -7,6 +7,12 @@ This Repository will show the following:
 1. Blueprint and Wirings of the Salvaboat
 2. Installation and Usage Mapping Software
 
+## Documentation
+![0100f9a6-672c-4626-a339-9e9e2e89bffc](https://github.com/user-attachments/assets/3300a69e-a5f7-4df9-9222-772a79205771)
+
+![b4440a48-dd4f-449c-865a-422180949ebe](https://github.com/user-attachments/assets/2fe33a05-9ca4-41b1-84cb-ff34232568e0)
+
+
 ## Blueprint of the Device
 <img width="1920" height="1080" alt="TOP" src="https://github.com/user-attachments/assets/5449bbc3-677f-432a-9f3f-4ffe70f54e04" />
 
