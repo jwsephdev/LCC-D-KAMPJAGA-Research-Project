@@ -1,1 +1,27 @@
-# LCC-D-KAMPJAGA-Research-Project
+
+# LCC-D KAMPJAGA-Salvaboat
+
+Research Study that aims to monitor canals for blockages; this repository aims to allow future researchers to access the Code,  Software, and Blueprints of the Research Study.
+
+## Parts of the Repository
+1. Installation and Usage Mapping Software
+2. Blueprint and Wirings of the Salvaboat
+## Installation of the Software
+
+1. Download the Github Repository.
+2. Extract then `.zip` file. 
+3. Go to the `Software` folder.
+4. Open the `gui.py` in the folder.
+5. Create a `.venv` folder in the same directory as `gui.py`.
+
+## Usage of the Software
+1. Connect your device to the Salvaboat via Bluetooth.
+2. Open the `KAMPJAGA Mapping` Software.
+3. Select the `COM` port to recieve the serial data.
+4. Turn on the Serial Monitoring, by clicking the `Begin Monitoring` Button.
+5. When Finished end the Monitoring by clicking the `End Monitoring` Button.
+6. Save the Coordinates, and to Plot  by clicking the `Save and Plot` Button.
+7. Open the Plotted map with the `View Map` Button.
+
+
+
