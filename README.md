@@ -3,7 +3,7 @@
 
 Research Study that aims to monitor canals for blockages; this repository aims to allow future researchers to access the Code,  Software, and Blueprints of the Research Study.
 
-## Parts of the Repository
+This Repository will show the following:
 1. Blueprint and Wirings of the Salvaboat
 2. Installation and Usage Mapping Software
 
