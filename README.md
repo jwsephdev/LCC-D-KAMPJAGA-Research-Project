@@ -11,7 +11,8 @@ This Repository will show the following:
 <img width="1920" height="1080" alt="TOP" src="https://github.com/user-attachments/assets/5449bbc3-677f-432a-9f3f-4ffe70f54e04" />
 
 ## Documentation
-![0100f9a6-672c-4626-a339-9e9e2e89bffc](https://github.com/user-attachments/assets/3300a69e-a5f7-4df9-9222-772a79205771)
+
+![b4440a48-dd4f-449c-865a-422180949ebe](https://github.com/user-attachments/assets/a97e59dd-d129-48d9-b457-8a0382b20611)
 
 
 ## Installation of the Software
