@@ -10,11 +10,6 @@ This Repository will show the following:
 ## Blueprint of the Device
 <img width="1920" height="1080" alt="TOP" src="https://github.com/user-attachments/assets/5449bbc3-677f-432a-9f3f-4ffe70f54e04" />
 
-## Documentation
-
-![b4440a48-dd4f-449c-865a-422180949ebe](https://github.com/user-attachments/assets/a97e59dd-d129-48d9-b457-8a0382b20611)
-
-
 ## Installation of the Software
 
 1. Download the Github Repository.
