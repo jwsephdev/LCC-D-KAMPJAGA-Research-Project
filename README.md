@@ -26,5 +26,6 @@ This Repository will show the following:
 6. Save the Coordinates, and to Plot  by clicking the `Save and Plot` Button.
 7. Open the Plotted map with the `View Map` Button.
 <img width="1242" height="902" alt="Kampjagasoftware" src="https://github.com/user-attachments/assets/b9dd63db-46ad-42ed-b6f8-71352d7bef9e" />
-![hihihi](https://github.com/user-attachments/assets/326371ea-6e89-4e1b-b31f-fdb752925dc0)
+
+<img width="1242" height="902" alt="KampjaMapPlot" src="https://github.com/user-attachments/assets/59dba907-b00a-4e0d-bec3-65ad95cf93d3" />
 
