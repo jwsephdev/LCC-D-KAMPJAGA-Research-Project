@@ -15,8 +15,7 @@ This Repository will show the following:
 1. Download the Github Repository.
 2. Extract then `.zip` file. 
 3. Go to the `Software` folder.
-4. Open the `gui.py` in the folder.
-5. Create a `.venv` folder in the same directory as `gui.py`.
+4. Run the `gui.py` in the folder.
 
 ## Usage of the Software
 1. Connect your device to the Salvaboat via Bluetooth.
@@ -27,5 +26,5 @@ This Repository will show the following:
 6. Save the Coordinates, and to Plot  by clicking the `Save and Plot` Button.
 7. Open the Plotted map with the `View Map` Button.
 <img width="1242" height="902" alt="Kampjagasoftware" src="https://github.com/user-attachments/assets/b9dd63db-46ad-42ed-b6f8-71352d7bef9e" />
-<img width="1896" height="910" alt="kampjagamap" src="https://github.com/user-attachments/assets/1aaddb50-eeac-4abb-88f5-7989464238ee" />
+![hihihi](https://github.com/user-attachments/assets/326371ea-6e89-4e1b-b31f-fdb752925dc0)
 
