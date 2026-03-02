@@ -14,8 +14,9 @@ This Repository will show the following:
 
 1. Download the Github Repository.
 2. Extract then `.zip` file. 
-3. Go to the `Software` folder.
-4. Run the `gui.py` in the folder.
+3. Go to the `MappingScript` folder.
+4. `pip install` all needed packages
+5. Run the `gui.py` in the folder.
 
 ## Usage of the Software
 1. Connect your device to the Salvaboat via Bluetooth.
